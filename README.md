@@ -39,7 +39,7 @@ To get started with this project, follow these steps:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/createWithshobhit/clonesite
+   git clone https://github.com/createWithshobhit/clonsite
    cd clonsite
    ```
 
